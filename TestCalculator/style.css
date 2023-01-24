@@ -1,0 +1,213 @@
+.button-C{
+    background-color:dimgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+    width:45px;
+}
+.button-7{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-8{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-9{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-minus{
+    font-size: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color:dimgrey;
+}
+
+.button-4{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-5{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-6{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-multiply{
+    background-color:dimgray;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+}
+
+.button-1{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-2{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-3{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-divide{
+    background-color:dimgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+}
+
+.button-0{
+    background-color:darkgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-dot{
+    background-color:dimgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color:black;
+}
+
+.button-plus{
+    background-color:dimgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+}
+
+.button-equals{
+    background-color:dimgrey;
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+}
+
+body{
+    text-align:center;
+}
+
+.my-input{
+    height: 45px;
+    width: 210px;
+    background-color: grey;
+    color:white;
+    font-size:larger;
+    border-radius:5px;
+}
+
+
+.button-C:hover{
+    background-color:grey;
+}
+
+.button-7:hover{
+    background-color:grey;
+}
+
+.button-8:hover{
+    background-color:grey;
+}
+
+.button-9:hover{
+    background-color:grey;
+}
+
+.button-minus:hover{
+    background-color:grey;
+}
+
+.button-4:hover{
+    background-color:grey;
+}
+
+.button-5:hover{
+    background-color:grey;
+}
+
+.button-6:hover{
+    background-color:grey;
+}
+
+.button-multiply:hover{
+    background-color:grey;
+}
+
+.button-1:hover{
+    background-color:grey;
+}
+
+.button-2:hover{
+    background-color:grey;
+}
+
+.button-3:hover{
+    background-color:grey;
+}
+
+.button-divide:hover{
+    background-color:grey;
+}
+
+.button-0:hover{
+    background-color:grey;
+}
+
+.button-dot:hover{
+    background-color:darkgrey;
+}
+
+.button-plus:hover{
+    background-color:grey;
+}
+
+.button-equals:hover{
+    background-color:grey;
+}
+
